@@ -1,7 +1,7 @@
 ###  👋 Hi I'M VIGNESH
 
 - 🔭 I’m currently working on EDUREKA Course
-- 🌱 I’m currently learning <img src="https://github.com/devicons/devicon/tree/master/icons/html5" alt="HTML logo" width="50" height="50"/>
+- 🌱 I’m currently learning HTML,CSS,JAVASCRIPT
 - 👯 I’m looking to collaborate on Youtube
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
